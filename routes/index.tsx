@@ -13,7 +13,7 @@ export default function Home() {
               <span className="font-bold">Baroen Sudarman</span>. Lahir di Gorontalo awal tahun 1995. Menempuh pendidikan S1 bidang Software Engineering STMIK ICHSAN Gorontalo dan selesai pada tahun 2018.
           </p>
         </div>
-        <a className="text-blue-500 text-xs" target={`_blank`} href={`https://drive.google.com/file/d/1sIGsVeb2v7vFYpU_wao5XvUF9PZsg6fZ/view?usp=sharing`}>Download profile</a>
+        <a className="text-blue-500 text-xs" target={`_blank`} href={`https://drive.google.com/file/d/10Yu_o_8mEoozkvaTu3DRvOgCMwj7Sqgi/view?usp=sharing`}>Download profile</a>
       </div>
     </>
   );
