@@ -46,7 +46,7 @@ export default function Home() {
         <div class="pl-4">
           <ul class="text-sm text-black list-disc">
             <li>Baroen <a href="/contact-information" class="text-blue-500 hover:text-pink-500">contact information</a></li>
-            <li>I am an alumnus of <a href="https://pddikti.kemdikbud.go.id/detail-pt/8ceUias00Y6wlXeKi7TLtKfoF3pEbblp4nLqfrDiQ6pzx8UaeGaGohiHwlX2lcC5oLeH3w==" class="text-blue-500 hover:text-pink-500">Sekolah Tinggi Manajemen Informatika dan Komputer Ichsan Gorontalo</a>, in the <a href="https://pddikti.kemdikbud.go.id/detail-mahasiswa/3mjCVtxUzle2OyznpsLxZTnf3t7oI9Rw-MQOYyglrX1E8QciC1lPEmvUBs5Qt8Q9Wpyxow==" class="text-blue-500 hover:text-pink-500">Department of Information System.</a> {`(S.Kom. 2018).`}</li>
+            <li>I am an alumnus of <a href="https://pddikti.kemdikbud.go.id/detail-pt/8ceUias00Y6wlXeKi7TLtKfoF3pEbblp4nLqfrDiQ6pzx8UaeGaGohiHwlX2lcC5oLeH3w==" class="text-blue-500 hover:text-pink-500" target="_blank">Sekolah Tinggi Manajemen Informatika dan Komputer Ichsan Gorontalo</a>, in the <a href="https://pddikti.kemdikbud.go.id/detail-mahasiswa/3mjCVtxUzle2OyznpsLxZTnf3t7oI9Rw-MQOYyglrX1E8QciC1lPEmvUBs5Qt8Q9Wpyxow==" class="text-blue-500 hover:text-pink-500" target="_blank">Department of Information System.</a> {`(S.Kom. 2018).`}</li>
           </ul>
         </div>
       </div>
